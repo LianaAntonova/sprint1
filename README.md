@@ -104,4 +104,5 @@
       webpack.config.js       //Настройки сборки приложения, в частности ModuleFederationPlugin
 
 
-Ссылка на задание 2: https://disk.yandex.ru/d/P5CZjf8dj_cYDQ
+Ссылка на задание 2: https://disk.yandex.ru/d/UFJAiHnHJf_ZJQ
+
